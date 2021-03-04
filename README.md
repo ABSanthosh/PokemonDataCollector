@@ -1,5 +1,5 @@
-# Pokemon-Sprite-Scrapper
-Get links to all the Pokémon sprite and store it in JSON file.
+# Pokemon-Sprite-Scraper
+Scrap links to all the Pokémon sprite from https://projectpokemon.org/ and store it in JSON file.
 
 
 ## Run Locally
