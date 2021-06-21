@@ -24,7 +24,8 @@ In addition to these JSON files, This script also generates 3 folders
 2) [PokemonFootprints](https://github.com/Gastly-dex/PokedexData/tree/main/PokemonFootprints)
 3) [PokemonSprites](https://github.com/Gastly-dex/PokedexData/tree/main/PokemonSprites)
 
-The Three folders have around ~4400 files of mp3s and PNGs and everything except Pokemon sprites are named with 4 char format with pokemon id.
+These three folders have around ~4400 files of mp3s and PNGs and everything except Pokemon sprites are named with 4 char format with pokemon id.
+
 Eg: 0001...0898
 
 Pokemon sprites uses a different naming convention.
