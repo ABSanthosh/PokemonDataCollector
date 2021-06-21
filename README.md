@@ -1,6 +1,10 @@
 # Pokemon-Sprite-Scraper
 
-Scrap links to all the Pokémon sprite from https://projectpokemon.org/ and store it in JSON file.
+Extracts links to all the Pokémon sprite from https://projectpokemon.org/ and stores the URL to JSON file.
+Extracts other resourses from the following:
+ - [Veekun](https://veekun.com/dex)
+ - [PokeApi](https://pokeapi.co/)
+ - etc...
 
 ## Run Locally
 
