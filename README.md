@@ -8,8 +8,6 @@ Extracts other resourses from the following:
 
 ## Run Locally
 
-[JSON file](https://github.com/ABSanthosh/Gastly/blob/master/src/Assets/FromOldJson.json)
-
 Now it generates 9 seperate JSON files.
 1) [PokemonNames.json](https://github.com/Gastly-dex/PokedexData/blob/main/PokemonNames.json)
 2) [PokemonStats.json](https://github.com/Gastly-dex/PokedexData/blob/main/PokemonStats.json)
